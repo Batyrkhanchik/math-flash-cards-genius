@@ -79,6 +79,9 @@ export default {
             perspective: {
                 '1000': '1000px',
             },
+            transformStyle: {
+                '3d': 'preserve-3d',
+            },
             keyframes: {
                 'accordion-down': {
                     from: { height: '0' },
